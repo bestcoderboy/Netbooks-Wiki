@@ -1,0 +1,5 @@
+site_name: Netbooks Docs
+site_url: https://docs.netbooks.org.uk
+nav:
+    - Home: index.md
+    - Accounts: accounts.md
