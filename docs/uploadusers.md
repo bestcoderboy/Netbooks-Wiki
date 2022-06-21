@@ -9,7 +9,7 @@ Here's a video guide on how to bulk-import users on Netbooks. Make sure to downl
 
 ## Text Guide
 
-1. Download the Excel template file <a href="NetbooksUserImport.xlsx" download>here</a>.
+1. Download the Excel template file <a href="../NetbooksUserImport.xlsx" download>here</a>.
 2. Before starting, make a copy of the file.
 3. Open your file.
 4. Paste or insert your data into the three columns - First Name, Last Name and School Year/Class - the spreadsheet should work for either.
